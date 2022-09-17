@@ -10,4 +10,5 @@ Searches through the path you provide to find files of the type you provide and 
 # Known issues:
 Error throws when trying to access unauthorized paths, such as hidden or otherwise protected paths or files.
 System.UnauthorizedAccessException throws when these are accessed.
-If somebody could tell me how I could avoid accessing these paths and files without hard coding all of those paths would be very helpful.
+
+If somebody could tell me how I could avoid accessing these paths and files without hard coding all of those paths, that would be very helpful.

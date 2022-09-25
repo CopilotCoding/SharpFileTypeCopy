@@ -1,4 +1,4 @@
-namespace FileCopySharp
+namespace SearchForFilesOfTypeAndCopyToNewFolder
 {
     using System;
     using System.Collections.Generic;
